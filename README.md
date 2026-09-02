@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👨‍💻 Miguel Cezar Ferreira
+# 👨‍💻 Douglas Guiné
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguelcezarferreira)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiguelFerreira31)
@@ -17,7 +17,7 @@
 
 ## 🎯 Sobre Mim
 
-Desenvolvedor Full Stack com **+3 anos** de experiência prática, especializado em construir sistemas web robustos do zero ao deploy. Transito entre stacks modernas (React, Node.js, .NET) e ecossistemas consolidados (WordPress, Laravel) com a mesma fluência técnica.
+Desenvolvedor Full Stack com **+2 anos** de experiência prática, especializado em construir sistemas web robustos do zero ao deploy. Transito entre stacks modernas (React, Node.js, .NET) e ecossistemas consolidados (WordPress, Laravel) com a mesma fluência técnica.
 
 **Meu diferencial:** entregar valor de negócio com excelência técnica — Clean Architecture, SOLID, CI/CD e cloud não são buzzwords no meu código, são prática diária.
 
